@@ -31,6 +31,7 @@ $ dig mysite.com
 
 - [Sublist3r](https://github.com/aboul3la/Sublist3r)
 - [DNSdumpster](https://dnsdumpster.com/)
+- ffuf -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt:FUZZ -u http://172.16.64.101/FUZZ
 
 ## Footprinting & Scanning
 
