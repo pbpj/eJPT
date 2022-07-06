@@ -17,6 +17,7 @@ Add a network to current route
 ```
 $ ip route add 192.168.10.0/24 via 10.175.3.1
 $ route add -net 192.168.10.0 netmask 255.255.255.0 gw 10.175.3.1
+$ netdiscover -r 172.16.64.0 -i int
 ```
 
 DNS
