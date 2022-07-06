@@ -48,6 +48,11 @@ nmap scan types
 -sn: Port Scan
 -sV: Service Version information
 -O: Operating System information
+-A: Detect OS and services
+-p: single port
+-p x-xx: range ports
+-F: 100 most common ports
+-p-: all ports (65535)
 ```
 
 ### Spotting a Firewall
