@@ -233,3 +233,9 @@ $ sudo vim /etc/hosts
 - Try to get a reverse shell connection
 - Check for flag in the user's home directory
 - Enumerate, enumerate, enumerate
+
+## Python Shell
+
+```
+python3 -c 'import pty; pty.spawn("/bin/bash")'
+```
