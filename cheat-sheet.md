@@ -248,3 +248,4 @@ python3 -c 'import pty; pty.spawn("/bin/bash")'
 ## Tomcat
 
 https://charlesreid1.com/wiki/Metasploitable/Apache/Tomcat_and_Coyote
+https://github.com/netbiosX/Default-Credentials/blob/master/Apache-Tomcat-Default-Passwords.mdown
