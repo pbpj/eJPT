@@ -43,6 +43,7 @@ Find live hosts with fping or nmap
 ```
 $ fping -a -g 172.16.100.40/24 2>/dev/null | tee alive_hosts.txt
 $ nmap -sn 172.16.100.40/24 -oN alive_hosts.txt
+$ nmap -sT -O 192.168.102.0/24 -> best network discover
 ```
 
 nmap scan types
