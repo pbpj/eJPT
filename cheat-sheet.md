@@ -31,6 +31,12 @@ $ nslookup mysite.com
 $ dig mysite.com
 ```
 
+SQLMAP
+
+```
+https://kk-shichao.medium.com/exploit-bwapp-using-sqlmap-15c422a1a899
+```
+
 ## Subdomain Enumeration
 
 - [Sublist3r](https://github.com/aboul3la/Sublist3r)
