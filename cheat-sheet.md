@@ -255,3 +255,9 @@ python3 -c 'import pty; pty.spawn("/bin/bash")'
 
 https://charlesreid1.com/wiki/Metasploitable/Apache/Tomcat_and_Coyote
 https://github.com/netbiosX/Default-Credentials/blob/master/Apache-Tomcat-Default-Passwords.mdown
+
+## JacktheRipper
+
+```
+https://www.cyberciti.biz/faq/unix-linux-password-cracking-john-the-ripper/
+```
